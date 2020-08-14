@@ -20,21 +20,30 @@ import java.time.LocalDate;
     public String getTitle() {
         return title;
     }
-    
+
 
     public Person getAuthor() {
         return author;
     }
-    
+
 
     public LocalDate getReleaseDate() {
         return releaseDate;
     }
-    
+
 
     public String getGenre() {
         return genre;
     }
-    
-}
+
+        @Override
+        public String toString() {
+            return "Book{" +
+                    "title='" + title + '\'' +
+                    ", author=" + author +
+                    ", releaseDate=" + releaseDate +
+                    ", genre='" + genre + '\'' +
+                    '}';
+        }
+    }
 

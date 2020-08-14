@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="800abce4-dfd6-4c07-bbb6-4f1db90e1bef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/lambda_test/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/lambda_test/BookApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/lambda_test/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/lambda_test/BookApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/lambda_test/BookApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
@@ -67,36 +65,55 @@
       <option name="presentableId" value="Default" />
       <updated>1597390327372</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;First commit&quot;">
+      <created>1597398039237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597398039237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;First commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;First commit&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="400" y="178" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597391488262">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="400" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1597391488262" />
-    <state x="533" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1597392741157">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="2151" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1597406495795">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="533" y="118" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1597392741157" />
-    <state width="1398" height="200" key="GridCell.Tab.0.bottom" timestamp="1597396245821">
+    <state x="2151" y="147" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.808@1440.23.1920.1057" timestamp="1597406495795" />
+    <state x="344" y="25" key="CommitChangelistDialog2" timestamp="1597398039110">
       <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="344" y="25" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1597398039110" />
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom" timestamp="1597406545857">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1597396245821" />
-    <state width="1398" height="200" key="GridCell.Tab.0.center" timestamp="1597396245820">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.808@1440.23.1920.1057" timestamp="1597406545857" />
+    <state width="1878" height="282" key="GridCell.Tab.0.center" timestamp="1597406545856">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="200" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1597396245820" />
-    <state width="1398" height="200" key="GridCell.Tab.0.left" timestamp="1597396245820">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1878" height="282" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.808@1440.23.1920.1057" timestamp="1597406545856" />
+    <state width="1878" height="282" key="GridCell.Tab.0.left" timestamp="1597406545855">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="200" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1597396245820" />
-    <state width="1398" height="200" key="GridCell.Tab.0.right" timestamp="1597396245820">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1878" height="282" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.808@1440.23.1920.1057" timestamp="1597406545855" />
+    <state width="1878" height="282" key="GridCell.Tab.0.right" timestamp="1597406545856">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="200" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1597396245820" />
+    <state width="1878" height="282" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.808@1440.23.1920.1057" timestamp="1597406545856" />
     <state x="308" y="169" key="IDE.errors.dialog" timestamp="1597395559577">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
